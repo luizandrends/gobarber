@@ -1,4 +1,4 @@
-# Meetup
+# Gobarber
 <p>The meetup app it's an application developed with <strong>NodeJs</strong>, <strong>ReactJS</strong> and <strong>React Native</strong>. The back-end was developed with Express framework. Bessides that the front-end was developed with ReactJs using react redux and react hooks, and in mobile we use React Native. This api is a task of Rocketseat's bootcamp class</p>
 
 ## Get started
